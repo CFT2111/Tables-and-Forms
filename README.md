@@ -16,7 +16,7 @@
 * England has the highest population. Using CSS can you find a way of colouring the England row in a different colour to the other rows of the table? 
 
 2.
-    * From the course website open the file [carboot.html](carboot.html). *carboot.html* is a registration questionnaire for a fictional e-commerce Web Site. 
+    * Download file [carboot.html](carboot.html). *carboot.html* is a registration questionnaire for a fictional e-commerce Web Site. 
     * Using this as a basis, create a web page that structures this information as an HTML form. 
     * You will see that some of the questions have various options as answers, others do not. Using your knowledge of HTML select which form elements are appropriate for each question and generate a complete form. 
         * Try to use a range of elements
